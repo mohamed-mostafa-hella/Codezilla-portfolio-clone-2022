@@ -50,7 +50,7 @@ section{
     min-height: 100vh;
     display: flex;
     align-items: center;
-    background: url(images/background.jpeg) no-repeat;
+    background: url(images/background.webp) no-repeat;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -289,7 +289,7 @@ footer{
 
 @media (max-width: 641px){
     .main{
-        background: url(images/small_background.jpg) no-repeat;
+        background: url(images/small_background.webp) no-repeat;
     }
 
     body{
